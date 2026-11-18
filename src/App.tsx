@@ -325,8 +325,6 @@ export function App() {
         ) : null}
       </div>
 
-      {!isSharedView && (
-        <>
       {/* Secret letter experience */}
       <button
         type="button"
@@ -391,6 +389,8 @@ export function App() {
         </div>
       )}
 
+      {!isSharedView && (
+        <>
       {/* Personalize the heart */}
       <button
         type="button"
@@ -496,6 +496,11 @@ export function App() {
         </div>
       )}
 
+        </>
+      )}
+
+      {!isSharedView && (
+        <>
       {/* Heart color palette */}
       <div className="fixed left-4 top-20 z-30">
         <button
@@ -551,6 +556,11 @@ export function App() {
         )}
       </div>
 
+        </>
+      )}
+
+      {!isSharedView && (
+        <>
       {/* Live design customizer */}
       <button
         type="button"
@@ -606,6 +616,11 @@ export function App() {
         </aside>
       )}
 
+        </>
+      )}
+
+      {!isSharedView && (
+        <>
       {/* QR code for the current personalized share URL */}
       <button
         type="button"
@@ -640,6 +655,11 @@ export function App() {
         </div>
       )}
 
+        </>
+      )}
+
+      {!isSharedView && (
+        <>
       {/* Share a self-contained personalized link */}
       <div className="fixed right-4 top-20 z-30 flex flex-col items-end gap-2">
         <button
@@ -669,8 +689,7 @@ export function App() {
         H4CK3R033
       </div>
 
-      {/* Playback controls are creator-only; shared visitors get a clean presentation. */}
-      {!isSharedView && (
+      {/* Playback controls remain available in both creator and shared presentation views. */}
       <ControlDock
         isPlaying={isPlaying}
         hasBuiltOnce={hasBuiltOnce}
@@ -689,7 +708,6 @@ export function App() {
         onResetView={handleResetView}
         onToggleFullscreen={handleToggleFullscreen}
       />
-      )}
     </div>
   );
 }
