@@ -23,6 +23,12 @@ export function App() {
   const [rotationSpeed, setRotationSpeed] = useState(DEFAULT_ROTATION_SPEED);
   const [resetViewKey, setResetViewKey] = useState(0);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [isSharedView] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('shared') === '1' ||
+      ['name', 'message', 'color', 'font', 'shape', 'particles', 'speed', 'mode', 'textSize', 'glow']
+        .some((key) => params.has(key));
+  });
   const [showIntro, setShowIntro] = useState(true);
   const [showLetter, setShowLetter] = useState(false);
   const [showPersonalize, setShowPersonalize] = useState(false);
@@ -55,7 +61,8 @@ export function App() {
     return () => document.removeEventListener('fullscreenchange', onFsChange);
   }, []);
 
-  // Load a shared dedication from the URL so recipients see the same heart.
+  // Load every saved design choice from a shared URL.
+  // Shared links open as a clean presentation: visitors see the heart, not the editing tools.
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const sharedName = (params.get('name') || '').slice(0, 32);
@@ -65,21 +72,28 @@ export function App() {
     const sharedShape = params.get('shape') || '';
     const sharedDensity = Number(params.get('particles'));
     const sharedSpeed = Number(params.get('speed'));
+    const sharedTextSize = Number(params.get('textSize'));
+    const sharedMode = params.get('mode');
+    const sharedGlow = params.get('glow');
+
     if (/^#[0-9a-fA-F]{6}$/.test(sharedColor)) setHeartColor(sharedColor);
     if (['Arial', 'Georgia', 'Trebuchet MS', 'Courier New'].includes(sharedFont)) setFontFamily(sharedFont);
     if (['classic', 'wide', 'tall'].includes(sharedShape)) setHeartShape(sharedShape as 'classic' | 'wide' | 'tall');
     if (Number.isFinite(sharedDensity) && sharedDensity >= 0.5 && sharedDensity <= 1.5) setParticleDensity(sharedDensity);
     if (Number.isFinite(sharedSpeed) && sharedSpeed >= 0.35 && sharedSpeed <= 2.5) setRotationSpeed(sharedSpeed);
-    if (sharedName || sharedMessage) {
+    if (Number.isFinite(sharedTextSize) && sharedTextSize >= 2.5 && sharedTextSize <= 12) setTextSize(sharedTextSize);
+    if (sharedMode === '2d' || sharedMode === '3d') setIs3DMode(sharedMode === '3d');
+    if (sharedGlow === '0' || sharedGlow === '1') setGlowEnabled(sharedGlow === '1');
+
+    if (params.has('name') || params.has('message')) {
       setPersonalName(sharedName);
       setPersonalMessage(sharedMessage);
     }
-    if (sharedName || sharedMessage || sharedColor || sharedFont || sharedShape || params.has('particles') || params.has('speed')) {
-      setShowIntro(false);
-    }
-  }, []);
+    if (isSharedView) setShowIntro(false);
+  }, [isSharedView]);
 
-  const handleShareHeart = useCallback(async () => {
+  // One canonical URL is used for both the system share sheet and the QR code.
+  const buildShareUrl = useCallback(() => {
     const url = new URL(window.location.href);
     url.search = '';
     if (personalName.trim()) url.searchParams.set('name', personalName.trim());
@@ -89,6 +103,15 @@ export function App() {
     url.searchParams.set('shape', heartShape);
     url.searchParams.set('particles', String(particleDensity));
     url.searchParams.set('speed', String(rotationSpeed));
+    url.searchParams.set('mode', is3DMode ? '3d' : '2d');
+    url.searchParams.set('textSize', String(textSize));
+    url.searchParams.set('glow', glowEnabled ? '1' : '0');
+    url.searchParams.set('shared', '1');
+    return url;
+  }, [personalName, personalMessage, heartColor, fontFamily, heartShape, particleDensity, rotationSpeed, is3DMode, textSize, glowEnabled]);
+
+  const handleShareHeart = useCallback(async () => {
+    const url = buildShareUrl();
 
     const shareData = {
       title: 'A heart made just for you',
@@ -122,7 +145,7 @@ export function App() {
       }
     }
     window.setTimeout(() => setShareStatus(''), 3000);
-  }, [personalName, personalMessage, heartColor, fontFamily, heartShape, particleDensity, rotationSpeed]);
+  }, [buildShareUrl, personalName, personalMessage]);
 
   const handleBuildHeart = useCallback(() => {
     if (!isPlaying && !hasBuiltOnce) {
@@ -302,6 +325,8 @@ export function App() {
         ) : null}
       </div>
 
+      {!isSharedView && (
+        <>
       {/* Secret letter experience */}
       <button
         type="button"
@@ -606,7 +631,7 @@ export function App() {
               <img
                 alt="QR code for this personalized heart"
                 className="h-full w-full"
-                src={`https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=8&data=${encodeURIComponent((() => { const u = new URL(window.location.href); u.search = ''; if (personalName.trim()) u.searchParams.set('name', personalName.trim()); if (personalMessage.trim()) u.searchParams.set('message', personalMessage.trim()); u.searchParams.set('color', heartColor); u.searchParams.set('font', fontFamily); u.searchParams.set('shape', heartShape); u.searchParams.set('particles', String(particleDensity)); u.searchParams.set('speed', String(rotationSpeed)); return u.toString(); })())}`}
+                src={`https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=8&data=${encodeURIComponent(buildShareUrl().toString())}`}
               />
             </div>
             <p className="mt-4 text-xs leading-6 text-stone-400">Scan with a phone camera to open this personalized heart. The QR image is generated by an external QR service.</p>
@@ -633,6 +658,9 @@ export function App() {
         )}
       </div>
 
+        </>
+      )}
+
       {/* Creator watermark — remains visible in fullscreen */}
       <div
         aria-label="Created by H4CK3R033"
@@ -641,7 +669,8 @@ export function App() {
         H4CK3R033
       </div>
 
-      {/* Minimalist Floating Control Dock */}
+      {/* Playback controls are creator-only; shared visitors get a clean presentation. */}
+      {!isSharedView && (
       <ControlDock
         isPlaying={isPlaying}
         hasBuiltOnce={hasBuiltOnce}
@@ -660,6 +689,7 @@ export function App() {
         onResetView={handleResetView}
         onToggleFullscreen={handleToggleFullscreen}
       />
+      )}
     </div>
   );
 }
