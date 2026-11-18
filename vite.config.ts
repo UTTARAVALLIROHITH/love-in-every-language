@@ -7,9 +7,10 @@ import { viteSingleFile } from "vite-plugin-singlefile";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const isGitHubPages = process.env.GITHUB_ACTIONS === "true";
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: isGitHubPages ? "/love-in-every-language/" : "/",
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
