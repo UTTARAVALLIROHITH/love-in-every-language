@@ -1,0 +1,1144 @@
+I LOVE YOU IN EVERY LANGUAGE
+Source: https://github.com/UTTARAVALLIROHITH/love-in-every-language/blob/main/src/data/translations.ts
+Unique language names in source: 1138
+Source phrase records: 1439
+Note: Some languages have multiple variants in the source. This file lists the first recorded phrase for each language name.
+
+0001. English - I love you
+0002. Telugu - నేను నిన్ను ప్రేమిస్తున్నాను
+0003. Hindi - मैं तुमसे प्यार करता हूँ
+0004. Tamil - நான் உன்னைக் காதலிக்கிறேன்
+0005. Kannada - ನಾನು ನಿನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ
+0006. Malayalam - ഞാൻ നിന്നെ പ്രേമിക്കുന്നു
+0007. Bengali - আমি তোমাকে ভালোবাসি
+0008. Japanese - 愛してる
+0009. Korean - 사랑해요
+0010. Chinese (Mandarin) - 我爱你
+0011. Chinese (Traditional) - 我愛你
+0012. Arabic - أحبك
+0013. Spanish - Te amo
+0014. French - Je t'aime
+0015. German - Ich liebe dich
+0016. Italian - Ti amo
+0017. Russian - Я тебя люблю
+0018. Portuguese - Eu te amo
+0019. Adangme - i suɔ mo
+0020. Albanian - të dua
+0021. Alutiiq - qunukamken
+0022. Amharic - አፈቅርሻለሁ
+0023. Assamese - মই তোমাক মৰম কৰোঁ
+0024. Asturian - te quiero
+0025. Azerbaijani - səni sevirəm
+0026. Batak - keleng ateku kam
+0027. Belarusian - я цябе́ каха́ю
+0028. Bikol - namumutan taka
+0029. Breton - da garan
+0030. Bulgarian - оби́чам те
+0031. Catalan - t'estimo
+0032. Cebuano - nahigugma ko nimo
+0033. Chichewa - ndimakukonda
+0034. Chinese - 我好鍾意你
+0035. Cornish - my a'th kar
+0036. Czech - miluji tě
+0037. Danish - jeg elsker dig
+0038. Dutch - ik hou van je
+0039. Erzya - мон вечктян
+0040. Esperanto - mi amas vin
+0041. Estonian - mina armastan sind
+0042. Faroese - eg elski teg
+0043. Finnish - minä rakastan sinua
+0044. Franco-Provençal - jo t'amo ben
+0045. Galician - quérote
+0046. Georgian - მე შენ მიყვარხარ
+0047. Greek - σε αγαπώ
+0048. Greenlandic - asavakkit
+0049. Gujarati - હું તમને પ્રેમ કરું છું
+0050. Hebrew - אֲנִי אוֹהֵב אוֹתָךְ
+0051. Hiligaynon - palangga ta ka
+0052. Hungarian - szeretlek
+0053. Icelandic - ég elska þig
+0054. Ido - me amas tu
+0055. Indonesian - aku sayang kamu
+0056. Ingrian - miä suvvaan sinnua
+0057. Interlingua - io te adora
+0058. Irish - tá grá agam duit
+0059. Kabyle - Hamlaγk
+0060. Kapampangan - kaluguran daka
+0061. Kariri - dzuka ado
+0062. Kurdish - من تۆم خۆش ئەوێ‌
+0063. Kyrgyz - мен сени сүйөм
+0064. Latin - tē amō
+0065. Lithuanian - aš tave myliu
+0066. Lombard - te vòj ben
+0067. Louisiana Creole - mo linm twa
+0068. Lower Tanana - nek'a dest'a
+0069. Luxembourgish - ech hunn dech gär
+0070. Macedonian - те сакам
+0071. Malay - aku sayang akan engkau
+0072. Maltese - inħobbok
+0073. Mandan - minikíkiirasxte'sh
+0074. Mansi - ам наӈын э̄руптылум
+0075. Mi'kmaq - kesalul
+0076. Nahuatl - nimitztlazohtla
+0077. Navajo - ayóóʼánííníshʼní
+0078. Nepali - मलाई तिम्रो माया लाग्छ
+0079. Nheengatu - asaisú indé
+0080. Norwegian - jeg er glad i deg
+0081. Nǀuu - na ǁʻâa a
+0082. Ojibwe - gizaagi'in
+0083. Old English - þē iċ lufiġe
+0084. Old Norse - ek elska þik
+0085. Old Tupi - oroaûsub
+0086. Oneida - kunolúkhwaʼ
+0087. Persian - دوسْتَت دارَم
+0088. Pipil - nimetztasujta
+0089. Polish - kocham cię
+0090. Quechua - munayki
+0091. Romani - kamav tut
+0092. Romanian - te iubesc
+0093. Romansh - jau hai tai gugent
+0094. Sami - mun ráhkistan dū
+0095. Samoan - ʻou te alofa iate ʻoe
+0096. Sanskrit - त्वयि प्रेम करोमि
+0097. Scots - A loue ye
+0098. Scottish Gaelic - tha gaol agam ort
+0099. Serbo-Croatian - волим те
+0100. Slovene - rad te imam
+0101. Sotho - ke a go rata
+0102. Sranan Tongo - mi lobi yu
+0103. Sundanese - abdi nyaah ka anjeun
+0104. Swahili - ninakupenda
+0105. Swazi - ngiyakutsandza
+0106. Swedish - jag älskar dig
+0107. Sylheti - ꠝꠥꠁ ꠔꠥꠝꠣꠞꠦ ꠝꠣꠄꠀ ꠇꠞꠤ
+0108. Tagalog - mahal kita
+0109. Thai - ฉันรักเธอ
+0110. Traveller Norwegian - miro asjar låsjano an diro
+0111. Turkish - seni seviyorum
+0112. Udmurt - мон тонэ яратӥсько
+0113. Ukrainian - я тебе́ коха́ю
+0114. Unami - ktaholël
+0115. Uyghur - مەن سئىزنئى سئۆيئىمەن
+0116. Uzbek - men sizni sevaman
+0117. Vietnamese - thương
+0118. Welsh - rydw i'n dy garu di
+0119. Xhosa - ndiyakuthanda
+0120. Yakut - Мин эйигин таптыыбын
+0121. Yoruba - mo nífẹ̀ẹ́ yín
+0122. Yup'ik - kenkamken
+0123. Zazaki - Ez to sinena
+0124. Zulu - ngiyakuthanda
+0125. Afrikaans - ek het jou lief
+0126. Akan - mo dow
+0127. Altai - мен сени сӱӱп јадым
+0128. Armenian - ես քեզ սիրում եմ
+0129. Bashkir - мин һине яратам
+0130. Basque - maite haut
+0131. Burmese - ခင်ဗျားချစ်တယ်
+0132. Buryat - би шамдаа дуратайб
+0133. Caló - te camelo
+0134. Chechen - суна хьо еза
+0135. Cherokee - ᎬᎨᏳᎯ
+0136. Chickasaw - chiholloli
+0137. Chittagonian - আঁই তুয়ানরে বেশি গোম লাগে
+0138. Chukchi - гымнан гыт ы’ԓгу тыԓгыркынигыт
+0139. Chuvash - эпӗ сана юрататӑп
+0140. Cia-Cia - indau pe'elu iso'o
+0141. Circassian - фӏыуэ узолъагъу
+0142. Corsican - ti tengu cara
+0143. Dolgan - мин энигин таптыыбын
+0144. Ewondo - ma ding wa
+0145. Frisian - ik hâld fan dy
+0146. Haitian Creole - mwen renmen ou
+0147. Hausa - ina sonki
+0148. Hawaiian - aloha wau iāʻoe
+0149. Hmong - kuv hlub koj
+0150. Hopi - nu’ umi unangwa’ta
+0151. Ibaloi - pipiyam taka
+0152. Igbo - afulu m gi na anya
+0153. Inuktitut - ᓇᒡᓕᒋᕙᒋᑦ
+0154. Jamaican Creole - mi love yuh
+0155. Javanese - kula tresna sampeyan
+0156. Jingpho - nang hpe ngai tsaw ra ai
+0157. Kalmyk - би чамд дуртав
+0158. Kankanaey - laylaydek sik-a
+0159. Karachay-Balkar - мен сени сюеме
+0160. Karelian - minä armastan sindai
+0161. Kashmiri - مےٚ چھِ چٲنؠ ماے
+0162. Kazakh - мен сені сүйемін
+0163. Khakas - мин сағаа хынчам
+0164. Khmer - បងស្រឡាញ់អូន
+0165. Komi - ме тэнӧ радейта
+0166. Koryak - гымнан гыччи ылӈу тыкулӈыги
+0167. Kristang - Em t' amo'b
+0168. Kumyk - мен сени сюемен
+0169. Lao - ຂ້ອຍຮັກເຈົ້າ
+0170. Latvian - es mīlu tevi
+0171. Lezgi - заз вун кӏанзава
+0172. Ligurian - te vœyu ben
+0173. Lingala - nalingí yɔ̌
+0174. Low German - ik leev di
+0175. Luo - aheri
+0176. Lushootseed - ʔəsx̌aƛ̕tubicid čəd
+0177. Manx - ta graih aym ort
+0178. Māori - kei te aroha au i a koe
+0179. Marathi - माझं तुझ्यावर प्रेम आहे
+0180. Mari - мый тыйым йӧратем
+0181. Mohawk - konoronhkwa
+0182. Moksha - келькте
+0183. Mongolian - би чамд хайртай
+0184. Moore - mam nonga fo
+0185. Occitan - t'aimi
+0186. Odia - ମୁଁ ତୁମକୁ ଭଲପାଏ
+0187. Pangasinan - inaro taka
+0188. Papiamentu - mi stima bo
+0189. Pashto - تا سره مينه کوم
+0190. Phuthi - Giyakutshadza
+0191. Punjabi - ਮੈਂ ਤੈਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹਾਂ
+0192. Shona - Ndinokuda
+0193. Shor - мен саға кӧленчам
+0194. Sinhalese - මම ඔයාට ආදරෙයි
+0195. Slovak - ľúbim ťa
+0196. Somali - Waan ku jeclahay
+0197. Tabasaran - узуз уву ккунжазуз
+0198. Tahitian - ua here vau ia oe
+0199. Tajik - ман туро дӯст медорам
+0200. Tatar - мин сине яратам
+0201. Tok Pisin - mi lavim yu
+0202. Tumbuka - nkhukutemwa
+0203. Turkmen - men seni söýýärin
+0204. Urdu - مُجھے تُم سے پْیار ہَے
+0205. Venetan - te vojo ben
+0206. Volapük - Löfob oli
+0207. Yiddish - איך ליבע דיך
+0208. Mauritian Creole - mo kontan twa
+0209. Абазинский - сара бара бзи бызбитӀ
+0210. Абе - mon ko lo fon
+0211. Абенаки - k’kezalmel
+0212. Абенлен - angkaaliket ako kamo
+0213. Абруццский - t-vujie bbene
+0214. Абуре - u'm wloloho
+0215. Абхазский - сара бара бзиа бызбоит
+0216. Авадхи - मइँ तोहसे पिरेम करत हउँ
+0217. Аваллаэн - vüväloiek dü quuo
+0218. Аварский - дие мун йокъула
+0219. Австрийский немецкий - i lieb di
+0220. Агординский ладинский - te voi ben
+0221. Агуакатекский - wachinpeq' tzawe'
+0222. Агуаруна - wii pachit-ja-me
+0223. Агульский - зас вун канди
+0224. Адаи - hekátœk kotán a enálœk
+0225. Аджукру - m'b'errourong
+0226. Адыгейский - сэ шӏу усэлъэгъу
+0227. Азербайджанский - mən səni sevirəm
+0228. Аймара - munsmawa
+0229. Айнский - アエオマプ
+0230. Акатекский - chachinkamk’ulnehan
+0231. Акланонский - palangga ko ikaw
+0232. Алабугатско-татарский - мен сені чаw болман
+0233. Албанский (гегский) - unë të dua
+0234. Алгонквинский - kiságiyán
+0235. Алентежанский португальский - gosto de ti
+0236. Алеутский - txin yaktakuq
+0237. Алтайский - мен сени сӱӱп jадым
+0238. Алур - ameri
+0239. Алюторский - гыммы гытты гәму лэӈэкткэн
+0240. Альтцнерский - (e)ich ho dü gahn
+0241. Амавака - hiya min cúunyovaquinu
+0242. Американский норвежский - elsker dæ
+0243. Амисский - maolahay kako tisowanan
+0244. Амшенский армянский - Ես քեզի հազ կ՛ընիմ
+0245. Ангами - angu ani se ho
+0246. Ангика - hamme tohrā pyār kare chiye
+0247. Андийский - дыё мен джилидо
+0248. Антильский франко-креольский - men ainmainw
+0249. Ануак - a mëër ki ïïni
+0250. Ао - ni na meimer
+0251. Апатани - niimi ngo ano hendu
+0252. Апинайе - iman a-mã anon
+0253. Арабела - quia pani-ya-nijia
+0254. Арабский Персидского залива - اَحِبِّچْ‎
+0255. Арапахо - biixoo3é3en
+0256. Ардешенский лазский - ma si maoropen
+0257. Арумынский - ti voi
+0258. Архавский лазский - ma si p'orom
+0259. Арчинский - зон ун кьӏан кер
+0260. Асмат - manám afpín
+0261. Ассирийский новоарамейский - ki bayyinakh
+0262. Атаяльский - llungun misu balay
+0263. Атикамек - ki micta sakihitin
+0264. Атинский лазский - ma si malimben
+0265. Аттие - min bou la yé
+0266. Афарский - ko kicinio
+0267. Африхили - misopa wu
+0268. Ахвахский - dibe mene kwiⁿl'iri
+0269. Ачехский - kaleuh gunci
+0270. Ачи - k’ax katinna’o
+0271. Ачоли - amari
+0272. Ачуар-шивиар - anéajime
+0273. Ашенинка - no-cova-a-mi
+0274. Аякучанский кечуа - kuyaykim
+0275. Бабин-вицувитен - nkests'iy
+0276. Бабинский саамский - monn šop̄šam tū
+0277. Багвалинский - де̄ мен хелал
+0278. Багхели - ham tohī cāhit ha
+0279. Бадийский ладинский - i t'ô bun
+0280. Балийский - titiyang tresna sareng ragane
+0281. Бамана - m’bi fe
+0282. Бамум - me naa ngu nyu
+0283. Банатско-болгарский - te milvam
+0284. Банджарский - aku cinta dua ikam
+0285. Бантонский - palangga ka nako
+0286. Барабинский - мин сесне яратыдым
+0287. Бари - man nyanyar do
+0288. Баса - mengweswe
+0289. Басса - ḿ ɖɛ̀ɓɛ̀ m̀ mú
+0290. Бауле - mi klôa
+0291. Бацбийский - ვეწ სო ჰ’ოჼ
+0292. Бежтинский - до ми ятӀца
+0293. Белорусский - кахаю цябе
+0294. Белуджский - tu mana doost biyeh
+0295. Бемба - nalikutemwa
+0296. Бембе - nauunda
+0297. Бенг - mam vimini
+0298. Бенга - i tondoko nd'ovè
+0299. Бенгальский - আমি তোমাকে ভালবাসি
+0300. Бергамский ломбардский - ta 'öre be
+0301. Берлинский немецкий - ick liebe dir
+0302. Бетави - gua cinte ame elu
+0303. Бете - djiba han djibameu ba
+0304. Бечский польский - kôchom cie
+0305. Бикольский - namumutan ta ka
+0306. Билаан - kando ta ge’
+0307. Билин - ንኳአተካያ
+0308. Билтский нидерландский - ich zien dich gan
+0309. Бима - nahu ne’e nggomi
+0310. Биса - mii nan
+0311. Бислама - mi lavèm yu
+0312. Бишнуприя-манипури - mi tore hada paori
+0313. Блаан - kando ta ge
+0314. Блэкфут - kitsiikákomimmo
+0315. Бобо - ma kia bé nà
+0316. Бодо - आं नोंखौ मोजां मोनो
+0317. Болгарский - аз те обичам
+0318. Болинао - inado ta ka
+0319. Бора - o wajyuóo uuké
+0320. Боснийский - volim te
+0321. Ботлихский - ди мин иде
+0322. Бохолано - nahigugma ko nimu
+0323. Брауи - nehton merve kewa
+0324. Брешийский ломбардский - ta öle bhé
+0325. Бритениг - eo dy af
+0326. Бугийский - ᨕᨘ ᨄᨚᨍᨗ ᨕ​ᨒᨙᨈ
+0327. Будухский - заз вын йикаджы
+0328. Букусу - nakhusima
+0329. Булу - ma nye'e wo
+0330. Бундели - hum tume chahat hain
+0331. Бурум - iripki nembi
+0332. Бурушаски - جا ان کا شل بلا
+0333. Бурятский - би шамай дурлаха
+0334. Буши - anaou tiakou
+0335. Бходжпури - हम तोहसे प्यार करेलीं
+0336. Ваи - na lia
+0337. Валенсийский - t’estime
+0338. Валладерский романшский - eu t’am
+0339. Валлийский - rwy`n dy garu di
+0340. Валлонский - dji t`veû vol`tî
+0341. Варайский - hinigugma ta ikaw
+0342. Ваханский - wuz taw dust δorəm
+0343. Венда - ndi a ni funa
+0344. Венедик - jo jemu cie
+0345. Верхнекускоквимский - nughistsin'
+0346. Верхнелужицкий - ja će lubuju
+0347. Верхнесаксонский - isch hab dsch gerne
+0348. Верхний танана - naa dithistsįį
+0349. Вестерботтенский шведский - ja elschke degg
+0350. Вили - mi be ku zole
+0351. Вилямовский - yh ho dih gan
+0352. Виннебаго - haipį́na
+0353. Водский - miä suvaan sinua
+0354. Волоф - sopp naa la
+0355. Восточнокересский (кацтья) - shro-tse-mah
+0356. Восточносреднеатласский тамазигхт (варайни) - ⵍⵉⵖ ⵜⵜⵔⵉⵖⵉⵛ
+0357. Восточнофламандский - ik zie je graag
+0358. Восточнофризский - iek hääb die ljoo
+0359. Восточный сго - y'aif naz
+0360. Вулканский - wani ra yana ro aisha
+0361. Вуте - ma wou ndoune
+0362. Выруский - (ma) armasta sinno
+0363. Высокий валирийский - avy jorrāelan
+0364. Га - miisumo bo
+0365. Гавайский - aloha wau iâ 'oe
+0366. Гагаузский - bän seni severim
+0367. Гадданг - angganma cu icca
+0368. Гаитянский креольский - mwen renmen’w
+0369. Гайанский креольский - i love yuh
+0370. Галло - j'sea un diot do tae
+0371. Гало - 'qo nom mvvcvm duu
+0372. Гангте - kahun lungsiet na hi
+0373. Гарденский ладинский - ie te é gën
+0374. Гарифуна - hínsiñetibu nun
+0375. Гаро - anga nangna ka'sara
+0376. Гарре - si feda
+0377. Гархвали - mithe twe batin agnaan chh
+0378. Гасконский - que v's aimi
+0379. Гбайя - mi ko me
+0380. Гваделупский франко-креольский - an enmé'w
+0381. Гвинейский креольский - n gosta di bo
+0382. Гвичин - neet’ihthan
+0383. Ген - un lon o
+0384. Гентский восточнофламандский - 'k'ou van ui
+0385. Генуэзский лигурский - te ammu'
+0386. Гереро - mbeku suvera
+0387. Гернсийский нормандский - j’t’oïme
+0388. Геррерский науатль - nimitstlasojtla
+0389. Гессенский немецкий - isch habb disch libb
+0390. Геэз - አፈቀረኪ
+0391. Гилянский - تی سرور دانم
+0392. Гитксан - ansip'iny niin
+0393. Гливицкий силезский - przajã ci
+0394. Глоса - mi amo tu
+0395. Гоанский конкани - हांव तुजेर मोग करता
+0396. Годоберинский - дилъи мин идалъида
+0397. Гомала - me kwoh wu
+0398. Гонди - ana nik pirem kiyatona
+0399. Горани - min waš(i)ma tu māy
+0400. Горномарийский - мый тыйым яратем
+0401. Горско-еврейский - mə tyrə xosdənym
+0402. Грабар - ես քեզ սիրեմ
+0403. Грамостянский арумынский - ti voiu
+0404. Гренландский - asavakit
+0405. Греческий - σ΄αγαπώ
+0406. Гронингенский - ik bin wies mit die
+0407. Гуарани - rojhayhû
+0408. Гуахиро - aisü pia tapüla
+0409. Гуджарати - હું તને પ્રેમ કરું છુ
+0410. Гун - n’yiwanna we
+0411. Гунзибский - диъи дуго атӏ
+0412. Гусии - nigwachete
+0413. Дабида - nakukunde
+0414. Дагбани - mi ndigui
+0415. Дакота - thečhíȟiŋda
+0416. Далматинский - iu amúa te
+0417. Даргинский - хӀу наб ригахъуре
+0418. Дари - دوستت دارم
+0419. Даурский - би шамэй дуарлабэй
+0420. Дег-хитан - inga dist’a
+0421. Деори - aa nona chu nimai
+0422. Деху - eni a hnimi eö
+0423. Джамби - aku sajaŋ dəŋan kaw
+0424. Дзонг-кэ - ང་གིས་ཁྱོད་ལུ་བྱམས་པ་འབདཝ་ཨིན
+0425. Джаханка - n’gné kanou
+0426. Джерсийский нормандский - j’t’aime
+0427. Димаса - ang ningkhe hamjaodu
+0428. Динка - yin nhiar
+0429. Диола-фоньи - nifañifañ
+0430. Диола-фоньи (булуф) - i mãnghy mãng
+0431. Добруджанский украинский - я тебе любу
+0432. Догри - में तुगी हिरख करना
+0433. Домари - ḥaskarmèré
+0434. Дотракийский - anha zhilak yera
+0435. Древнеанглийский - ic lufie þe
+0436. Древневерхненемецкий - ich minne dich
+0437. Древнееврейский - אהבתיך
+0438. Древнеирландский - notcharaim
+0439. Древнеисландский - ann ek þér
+0440. Древнерусский - люблѭ тѧ
+0441. Древнефранкский - ik minnon thigh
+0442. Древнешведский - iak elski þik
+0443. Дрентский - ik hol van joe
+0444. Дуала - na tondi wa
+0445. Дунганский (ганьсуйский) - вә э ни
+0446. Дунганский (шэньсийский) - ңə э ни
+0447. Дусунский - siuhang oku dia
+0448. Дьюла - m'bi fê
+0449. Египетский арабский - ٲنَا بحِبَّك
+0450. Енишский - ketta jaan bettu
+0451. Жамамади - tera oka-nofi-beya
+0452. Жемайтский - aš tavi mīlu
+0453. Жуаль - sh’teme
+0454. Зазаки - ez to has kenan
+0455. Западно-апачский - sheth she'n zho'n
+0456. Западнобрабантский - 'k zien a gère
+0457. Западнокересский (ааку) - thro sii muu
+0458. Западнокересский (каваик) - аmuu-thro-maa
+0459. Западноломбардский - mi te voeuri ben
+0460. Западнотамахакский - riɣ-kem
+0461. Западнофламандский - ik zie oe geerne
+0462. Западно-центральный оромо - si jaalladha
+0463. Западночамский - ai ranam dai
+0464. Западный кри - ᑭᓵᑭᐦᐃᑎᐣ
+0465. Западный манинка - mbi fê
+0466. Западный оджибве - kisawēnmin
+0467. Западный панджаби - main tainu pyar karda haan
+0468. Зарма - aye ga banin
+0469. Зибирхалинский - дилъи мини иделъиде
+0470. Зуни - tom ho’ ichema
+0471. Ибалои - pip-piyan taha
+0472. Ибанаг - iddu taka
+0473. Ибанский - aku sayau ke nuan
+0474. Ибибио - mma ma fi
+0475. Иватанский - chaddao kuymu
+0476. Иврит - אני אוהב אותך
+0477. Игбо - m hụrụ gị n’anya
+0478. Идиом-неутраль - mi am vo
+0479. Ик - tsamia bi
+0480. Илоканский - ayayatenka
+0481. Имперский арамейский - ܟܠܐܢܐ ܡܝܪ
+0482. Ингушский - хьо сона еза
+0483. Инуиннактун - piqpagiyagin
+0484. Инупиак - nakuagigikpin
+0485. Иранун - kababayaan ku ska
+0486. Ирландский - gráím thú
+0487. Исоко - me you owhai
+0488. Истмусский сапотекский - nadxieeʼ lii
+0489. Истрорумынский - te iubeåć
+0490. Исфаханский персидский - شومارو دوس دارم
+0491. Итавис - ay-ayatan ta ka
+0492. Ительменский - кәмман кәзза тлфталакзусчэн
+0493. Итонама - ka’k’isilo’ne’mo
+0494. Иульджи - я любюніаі а ято
+0495. Ифкуиль - ôžasi ükhi
+0496. Ифугао - penpenhod cha-a
+0497. Ица - ink’atech
+0498. Ишильский - nikin sa' axh
+0499. Иширкиан - nukisi
+0500. Йемба - men nkon' wou
+0501. Йогад - iddeddukan taka
+0502. Йоканьгско-саамский - мунн со̄бпам то̄ны
+0503. Йола - ich love thou
+0504. Йолнгу - ŋarra djäl nhuna
+0505. Йоруба - mo nifẹẹ rẹ
+0506. Кабардино-черкесский - сэ уэ лагун
+0507. Кабильский - hamlaɣkem
+0508. Кабувердьяну - `n crebu tcheu
+0509. Каджунский французский - mi aime jou
+0510. Кадоринский ладинский - te voi bögn
+0511. Казахский - мен сені жақсы көремін'
+0512. Кайюга - go-nóhkwa’'
+0513. Кайтагский - дами и риччихитте
+0514. Какчикельский - yatinwajo'
+0515. Калангуйя - pipiyan ta ka
+0516. Калинганский - pipiyok sika
+0517. Калиспел - kʷinχaménč
+0518. Камайо - inadyoan ta kaw
+0519. Камасинский - айи́рлӧм тәна́н
+0520. Камба - ningwemdete
+0521. Кампиданский сардинский - deu t’amu
+0522. Канадский французский - je t’aime
+0523. Каннада - ನಾ ನಿನ್ನ ಪ್ರೀತಿಸ್ತೀನಿ
+0524. Канури - nya raakna
+0525. Канхобальский - chwachwechej
+0526. Карабахский армянский - ես քըզ սիրում ըմ
+0527. Карагашский - мен сени джаратам
+0528. Караимский - mień sieni siuviam
+0529. Каракалпакский - мен сени жақсы көремен
+0530. Каранкава - ná'i áwa ka
+0531. Карельский - mie šilma šuvačen
+0532. Кари - ni kou zololo
+0533. Карибский - kysiropimaya
+0534. Каритиана - ÿn mã a'ak
+0535. Каролинский - i áfischi(gh) ló
+0536. Карук - nu-'íimnih-tih
+0537. Каса - lifañifañ
+0538. Каталанский - t’estimo
+0539. Кашмирский - مےٚ چھِ چٲنؠ ماے‎
+0540. Кашубский - jô cë kòchóm
+0541. Квакиутл - łaxwala nuxwan tłus
+0542. Квангали - ame naku hara
+0543. Квенский - rakastan sinnuu
+0544. Квенья - melinyel
+0545. Кекчи - nakatinra
+0546. Керкрадский - iech hoat va diech
+0547. Кетский - иль укаӈт лювероӈавет
+0548. Кёльнский - isch han dich leev
+0549. Кёр-д'ален - ku nx̣amínč
+0550. Кига - ninkukunda iwe
+0551. Кикапу - ketapaanene
+0552. Кикуйю - nĩngwendete
+0553. Килеут - nayeli
+0554. Кильдинский саамский - мунн то̄н шоа̄бша
+0555. Кинарайский - ginapalangga ta ikaw
+0556. Кипрский греческий - αγαπώ σε
+0557. Кипрско-арабский - uḥibbuk
+0558. Кипсигис - achamin
+0559. Кирибати - i tangiriko
+0560. Китуба - mu zola ngé
+0561. Кихчексела - iðériscán
+0562. Киче - katwaj
+0563. Кичуа - juyanimi
+0564. Клаллам - nəsƛ̕éʔ cxʷ
+0565. Кламат-модокский - Moo ?ams ni stinta
+0566. Классический китайский - 吾愛汝
+0567. Клата - dakkal ginawa kok nekku
+0568. Клингонский - qamuSHa'
+0569. Клингский нидерландский - ik zien ô gjèèren
+0570. Кого - ma din wa
+0571. Кокборок - ang nono hamjakgo
+0572. Кокни - you are my turtle dove
+0573. Колтта-саамский - (mon) rääʹǩǩstam tuu
+0574. Команчский - ʉ kamakʉtʉ nʉ
+0575. Комекрудо - ankuailam
+0576. Коми-зырянский - ме тэнö радейта
+0577. Коми-ижемский - ме тэнэ радейта
+0578. Коми-пермяцкий - ме тэнӧ любита
+0579. Комокс - χaƛnomɛč
+0580. Коморский - n'game handzo
+0581. Конго - mono ke zola nge
+0582. Коптский - Ϯⲙⲉ ⲙ︦ⲙⲟ
+0583. Корё мар - 노 코바 한다
+0584. Кориезский - tenï eretemar
+0585. Корнский - my a’th kar
+0586. Корякский - гмнан гъчи гаймо ткулн'ги
+0587. Косяэ - nga lungse kom
+0588. Кота (Габон) - ma nono bè
+0589. Котава - va rin rená
+0590. Коттский - hamaʔ-u-th-āk-ŋ
+0591. Кочими - b'gooso
+0592. Коюкон - nʉgh estsen'
+0593. Кпелле - iwalikana
+0594. Кри - ᑮᓯᑲᐦᐄᐦᐃᑏᐣ
+0595. Крикский - ecenokecis
+0596. Крио - а lɛk yu
+0597. Кроу - dii awátsišiky
+0598. Крымскотатарский - men seni sevem
+0599. Кубачинский - у дамми йикIулда
+0600. Кудмали - môy tôke pôsôd kôrô
+0601. Куйонон - inggegegma ta kaw
+0602. Кукский - inangaro au ia koe
+0603. Куланго - mi koriou
+0604. Кумандинский - меҥ сени сӱӱп jадым
+0605. Кумаони - mekai teri maya laagi chhoo
+0606. Курманджи - ez jite hezdikim
+0607. Кусаал - m bood if
+0608. Кусканский кечуа - munakuyki
+0609. Кутчи - આંઉ તોકે પ્રેમ કંઈયા તો
+0610. Кхаси - nga ieid ia phi
+0611. Кэрриер - nyuk'enusi
+0612. Кяхтинский - моя твоя люби
+0613. Лаала - mm do da
+0614. Ладинский - te ei gen
+0615. Лазский - მასიმაოროპენ
+0616. Лакота - thečhíȟila
+0617. Лакский - ттунина ххирара
+0618. Лангароло - ieu t’ame
+0619. Лари - nge nzololo
+0620. Латгальский - es tevi miloju
+0621. Лаху - nga naw hta ha ja
+0622. Лезгинский - заз вун кӏанзава‎
+0623. Лесной энецкий - мо̂дь ууʼʼ комитазʼʼ
+0624. Ливанский арабский - بهباك
+0625. Ливийский арабский - نحبك
+0626. Ливский - minā ārmaztõb sinā
+0627. Лигурский - mi te amo
+0628. Лиллуэт - stexwkan tu7 xatmintsin
+0629. Лимбум - meh kong weh
+0630. Лимбургский - ik hald van dich
+0631. Лингва де планета - me lubi yu
+0632. Лингва франка нова - me ama tu
+0633. Лиссабонский португальский - gramo-te
+0634. Лихтенштейнский немецкий - i mag di
+0635. Логлан - mi cluva tu
+0636. Логудорский сардинский - deo t’amo
+0637. Ложбан - mi do prami
+0638. Лози - na ku lata
+0639. Лотха - ana ni nzana la
+0640. Луба - ndi musua wewe
+0641. Луба-катанга - ami nkuswele
+0642. Луганда - nkwagala
+0643. Луле-саамский - mån æhtsáv duv
+0644. Лухья - ndakhuyanza
+0645. Лухья (ванга) - ndakhuchama
+0646. Лухья (мараголи) - nakuyanza
+0647. Лухья (марачи) - ndakhujama
+0648. Люцернский немецкий - ech liebe dech
+0649. Магахи - हम तोरा से प्यार करऽऽ हियो।
+0650. Магинданао - kalinian ko seka
+0651. Магрибский арабский - تنبغيك
+0652. Мадридский испанский - me molas
+0653. Мадурский - kula tresna panjengan
+0654. Мазандеранский - tere del devesteme
+0655. Майами-иллинойс - teepaalilaani
+0656. Майтхили - हम अहां सँ प्रेम करैत छी
+0657. Макаа - me tchiel wo
+0658. Макасарский - ᨀᨘᨂᨁᨕᨗᨀᨚ
+0659. Макуа - mim kinophenta
+0660. Малавег - ayatan taka
+0661. Малагасийский - tiako ianao
+0662. Малайский - saya sayang awak
+0663. Малайско-португальский креольский - em t' amo’b
+0664. Малаялам - ഞാന്‍ നിന്നെ പ്രേമിക്കുന്നു
+0665. Малесит-пассамакводди - koselomol
+0666. Малопольский польский - kochám cié
+0667. Мальдивский - އަހަރެން ތިބާ ދެކެ ލޯބިވަން
+0668. Мальоркин - t`estim
+0669. Мамаинде - a-nu-dexexn
+0670. Мамский - at nk’ujleb’il
+0671. Манадо-малайский - kita suka pa ngana
+0672. Манджак - ma ngal o
+0673. Мандинка - nye kanu laye
+0674. Манинка - ni bi fe
+0675. Манинка (коньянка) - i diany gnè
+0676. Манипури - ꯑꯩꯅ ꯅꯪꯕꯨ ꯅꯨꯡꯁꯤ
+0677. Мансийский - ам эруптэгум наӈын
+0678. Маньчжурский - bi shimbe hairambi
+0679. Маори - kei te aroha au ki a koe
+0680. Мапуче - inche poyekeyu
+0681. Маранао - pekababaya-an ko seka
+0682. Маратхи - माझ तुइयावर प्रेम आहे
+0683. Марвари - main tanne pyaar karoon
+0684. Маркизский - ua hinenao au ia oe
+0685. Мартиникский франко-креольский - mwen enmen'w
+0686. Маршалльский - ij io̧kwe eok
+0687. Масайский - kanyor nanu
+0688. Масбатеньо - naila ako sa imo
+0689. Массачусетский - kuwômônush
+0690. Маторский - mən tənim sǖjam
+0691. Мафа - i way ka
+0692. Махикан - ktaʔwãanin
+0693. Машакали - xate' ug-putuppax
+0694. Машрикский арабский - bahebbik
+0695. Мбама - bènan ndjala wè
+0696. Мбере - me na dialayè
+0697. Мбо - mi ding wo
+0698. Мегленорумынский - ti vói
+0699. Мегрельский - მა სი მიორქ
+0700. Медумба - me ko ou
+0701. Межславянский - ја љубју тебе
+0702. Меланау (даладский) - sayang kou gak kaau
+0703. Меланау (мату-даро) - sayang kou tang mo
+0704. Меланау (сегалангский) - sayang kou bak kaan
+0705. Менде - cale sa duie ca upeif
+0706. Меномини - ketapanen
+0707. Меру - ikwendete
+0708. Мизо - ka hmangaih che
+0709. Микасуки - cheh moka is cheh
+0710. Миланский ломбардский - te vöeri ben
+0711. Минангкабау - ambo cinto ka awak
+0712. Минго - könuöhkwa
+0713. Мини - mi i amo a tu
+0714. Миньонский - tulaliloo ti amo
+0715. Михе - ntsëj kypts mejts
+0716. Мичиф - keesha kee taen
+0717. Миштекский - ku toulló ñeloosí
+0718. Могаукский - konnorónhkhwa
+0719. Мои - gakakayo
+0720. Мокильский - ngoah mweoku kaua
+0721. Мокшанский - мон кельктядязь тинь
+0722. Монегаскский - te véuggio bén
+0723. Монтанье-наскапи - tshemenuadeden
+0724. Мооре - mam nonga foo
+0725. Мопан - ink’ateech
+0726. Мохеган-пекот - kuwômôyush
+0727. Муниче - pjeñcamʷpʷ
+0728. Мьене - mi tonda wè
+0729. Навахо - ayóóʼánííníshní
+0730. На'ви - ngari ’efu oe tunu
+0731. Нагамский креольский - môi tôi ke môrôm kôre
+0732. Нагпури - moe toke cāhonā
+0733. Нама - INam si ta ge a
+0734. Нанайский - ми симбивэ улэсимби
+0735. Науатль - ni mits neki
+0736. Науруанский - nga ebonu
+0737. Нганасанский - мәнә тәнә мәнюнтүм
+0738. Нгек - kaw ʔɛɛʔ maj
+0739. Ндау - ndinokudisisa
+0740. Ндомбе - ndilakuyanda
+0741. Ндонга - ondi ku hole
+0742. Неварский - जितः छ नापं मतिना दु।
+0743. Негидальский - бӣ синэвэ айа̄вум
+0744. Нен - mi nou ong'o hiki
+0745. Ненецкий - мань хамзангав сит
+0746. Ненецкий лесной - мань катаптангав пыт
+0747. Нео - mi te amar
+0748. Непальский - म तपाइलाइ माया गर्छु।
+0749. Не-персе - in ‘ee hetewise
+0750. Ниасский - omasido khömö
+0751. Нивхский - ни чи эзмудь
+0752. Нигерийский фульфульде - mi yidima
+0753. Нидерландский - ik houd van je
+0754. Нидерландский нижнесаксонский - ik hol van die
+0755. Нижнелужицкий - ja śi lubujom
+0756. Нижнелужский ижорский - miä suvvan sinno
+0757. Нижненемецкий - ik hou van di
+0758. Нижнесаксонский - ik hou van ju
+0759. Нижний танана - neghw estsen'
+0760. Нипмук - keȣamanlis
+0761. Нисгаа - siip'iniy' n'iin
+0762. Ниуэ - ke tohi nei au ki a koe
+0763. Ниццкий - ti vouòli ben
+0764. Ниши - nam ngo anyadwn
+0765. Нко - ߌ ߞߏ߫ ߞߊߘߌ߫ ߒ ߦߋ߫
+0766. Ноакхали - আই তরে ভালাবাষি
+0767. Нобин - ⲁⲓ̈ ⲓⲕ-ⲕⲁ ⲇⲟⲗⲗⲓⲣ
+0768. Новиаль - me ama vu
+0769. Новояз - pluslike you
+0770. Ногайский - мен сени суьемен
+0771. Номацигенга - ninintimíni
+0772. Нормандский - jè t'anor
+0773. Норн - eg elske dig
+0774. Нортумбрийский древнеанглийский - ic lufie þec
+0775. Норфолкский - i love yew
+0776. Носу - ꉢꆎꉂ
+0777. Нсо - m kong wo
+0778. Нупе - miye wawe
+0779. Нутка - yaʔakukʷah suw̕a
+0780. Нухалк - lhkw'm ts i nu
+0781. Нуэр - nhɔa̱kä ji
+0782. Ньенгату - ihé uru-aîhu
+0783. Ньямвези - itogwa benekele ne benekele
+0784. Ньянколе - ninkukunda
+0785. Оджибве - gizaagi’in
+0786. Оканаган - kʷhin xmenč
+0787. Окинавский - 好ちゅさ
+0788. Окинавский японский - かなさん どお
+0789. Окпе (юго-западный эдо) - mi ji vwo ẹguọlọ kpahuọn
+0790. Окситанский - t’aimi
+0791. Окциденталь - yo ama te
+0792. Омаха-понка - xcháwithe
+0793. Она - mxaynįn ya
+0794. Онейда - kunolúkhwa̱’
+0795. Орокский - бии симбэ ананасиви
+0796. Оромо - sin jaalladha
+0797. Орочский - би аяуме сино
+0798. Осейдж - wíohta
+0799. Осетинский - æз дæ уарзын
+0800. Османский - سنی سویورم
+0801. Отоми - hmädi
+0802. Ошивамбо - ondiku hole
+0803. Палауский - ng betik a renguk er kau
+0804. Пангасинанский - inaru taka
+0805. Пао - ခွေရက်ငါႏနာꩻ
+0806. Папантланский тотонакский - kpaxkiyan
+0807. Папьяменто - mi ta stima bo
+0808. Паумари - o-nofi-ki 'ira
+0809. Пенсильванско-немецкий - ich liebe dich’
+0810. Пехлевани - دوسد توام
+0811. Пиджин Соломоновых Островов - mi lovem iu
+0812. Пикардский - j’t’ai ker
+0813. Пите-саамский - mån iehtsáv duv
+0814. Питьянтьятьяра - ngayulu nyuntumpa mukuringanyi
+0815. Покомам - henwa tow hawach
+0816. Покот - achaminyi
+0817. Полабский - liaibu tibë
+0818. Помакский - gelyam te
+0819. Понпейский - i poakohng uhk
+0820. Потаватоми - ktabanIn
+0821. Прагерманский - *ek frijō þek
+0822. Праиндоевропейский - *éǵh₂om lubʰō tué
+0823. Праиталийский - *tē amāō
+0824. Пракельтский - *tē karū
+0825. Праностратический - *mi ṭi q̣urE
+0826. Праславянский - *(j)azъ ľubľǫ tę
+0827. Претароло - t'iamoij
+0828. Прибрежно-цимшианский - nsiipn düüt nüün
+0829. Прибрежный кадазанский - guminavo zou diau
+0830. Прибрежный мивокский - kajómu ˀópu míi
+0831. Провансальский - t’ame
+0832. Прусский - as mīli tin
+0833. Псевдофарси - il onai au
+0834. Пуатевинский - i t’aeme
+0835. Пулаар - mi yidi maa’
+0836. Пулар - mbe de yid ma’
+0837. Пуну - ni u rondi’
+0838. Пурепеча - uémbekua
+0839. Пури - ha tl'amatl'i dieh
+0840. Путерский романшский - eau t’am
+0841. Пушту - زه ستا سره مینه لرم
+0842. Пуэльче - uük’ǘgü tsashkal
+0843. Пьемонтский - t’veuj bin
+0844. Рабха - nana ang pelem mana
+0845. Рабха (коч) - nwngo ang mwka
+0846. Рабха (рондани) - nango ang nemtata
+0847. Раджастхани - hu/mhey thaa-neh prem karu chu/hu
+0848. Раджбанши - মুই তোক ভাল পাং
+0849. Райсальский креольский - a lov yu
+0850. Рангпури - mui tok bhal paō
+0851. Рапануйский - hanga rahi au kia koe
+0852. Реюньонский креольский - mi aime a ou
+0853. Римский итальянский - te vòjo bbène
+0854. Ринконада-бикол - payaba ta ika
+0855. Риограндский хунсрюкский - ich lieve dich
+0856. Рифский - tekhsekhchek
+0857. Робиния - boahgosó
+0858. Романисо - mi amoran vi
+0859. Романшский - jeu carezel tei
+0860. Романьольский - a t’ vöi bëin
+0861. Ромбломанонский - palangga ta ikaw
+0862. Ротуманский - gou hanis ‘e ‘äea
+0863. Руанда - ndagukunda
+0864. Русинский - любля тя
+0865. Рутульский - зас ву къыргара
+0866. Руунд - nikukatin
+0867. Савойский франкопровансальский - jhe t’amo
+0868. Сакапультекский - otz katnwilan
+0869. Самбалпури - muĩ tumku bhôl paesĩ
+0870. Самоанский - ou te alofa ia te oe
+0871. Сангирский - iạ makěndagẹ̌ si kau
+0872. Санго - mbi yé mô
+0873. Сан-маринский романьольский - a t' vöi bëin
+0874. Санскрит - त्वां कामयामि
+0875. Сантали - ᱫᱩᱞᱟᱲ ᱢᱮ ᱚ ᱤᱝ
+0876. Сапотекский - nadxiie lii
+0877. Сар - m'tari
+0878. Сарамакканский - mi lobi i e
+0879. Сардинский - t’amo
+0880. Сассарский - ti vogliu bè
+0881. Сахаптин (якима) - atawishamash
+0882. Сахо - ku kixiniyo
+0883. Сванский - მი სი მალატხი
+0884. Сво - me ne tzale weu
+0885. Сго - ယအဲၣ်နၤ
+0886. Северносаамский - (mun) ráhkistan du
+0887. Северноселькупский - ман тащинты ӄыӄымпам
+0888. Северносуксабтский среднеатласский тамазигхт - ⵍⴰⵛ ⵜⵜⵉⵔⵉⵖ
+0889. Севернофризский - ik hääw de liif
+0890. Северный мбунду - ngakuzulu
+0891. Северный паюте - nu soopeda u
+0892. Северный хайда - dáng díi ḵuyáadang
+0893. Северо-западный корейский - 사랑애
+0894. Северо-западный марийский - мӹнь тӹньӹм йоратем
+0895. Северонижнесаксонский - ik heff di leev
+0896. Сейшельский креольский - mon kontan ou
+0897. Селькупский - мат ташэнд надрам’
+0898. Сена - ndisakufuna’
+0899. Сенека - gönóöhgwa’
+0900. Сентонжский - jhe vous aimé
+0901. Серер - mi ngwinda
+0902. Серрано - pihan'in 'emey
+0903. Сесото - ke a o rata
+0904. Сету - ma sinno sallin'
+0905. Сефардский - טי אמו
+0906. Сешельт - x̌áƛ’númičen
+0907. Сёльринг - ik haa di lef
+0908. Сибирский - я тя дружу
+0909. Сибирско-татарский - min sine sөyəm
+0910. Сидамо - baxeemmohe
+0911. Сиккимский - ང་ ཁྱོད་ལུ་ དགའ།
+0912. Силезский - jo ci przaja
+0913. Сингапурский английский - i lurf you
+0914. Синдарин - gi melin
+0915. Синдхи (лари) - آئون تو سان پيار ڪيان ٿو
+0916. Синдхи (утради) - مان تو سان پيار ڪيان ٿو
+0917. Синти - kamao tut
+0918. Сипакапенский - katnlq’oj
+0919. Сирайки - میں تیں نل پیار کرینداں
+0920. Сирийский - ܐܢܐ ܪܚܡ ܠܟ
+0921. Сиу - techi 'hila
+0922. Сицилийский - ti vogghiu
+0923. Словио - lubovijm te
+0924. Сога - nkwendha
+0925. Сойкинский ижорский - miä suvvan sinnua
+0926. Сойотско-цаатанский - мен сені ынақшыыр мен
+0927. Сольресоль - do-re mi-la-si do-mi
+0928. Сонге - ne mukufule
+0929. Сонинке - n w'an mulla
+0930. Сранан-тонго - mi lobi joe
+0931. Среднеатласский тамазигхт - ⵍⴰⵛ ⵜⵉⵔⵉ
+0932. Среднеатласский тамазигхт (зайанский Аит Лахсен) - ⴷⴰ ⵛ ⵜⵜⵉⵔⵉⵅ
+0933. Средневаллийский - mi a’th garaf
+0934. Среднесуксабтский среднеатласский тамазигхт - ⴷⴰ-ⴽ-ⵜⵜⵉⵔⵉⵖ
+0935. Стандартный марокканский берберский - ⵃⴰⵎⵍⴰⵖⴽⴻⵎ
+0936. Старосиреникский - акы́мыг'йукыск'ы̄́х'тымкын
+0937. Старославянский - азъ люблю тѧ
+0938. Старофранцузский - aim te
+0939. Субанон - dlelamen hu yaa
+0940. Суданский арабский - احبك
+0941. Сукума - nakutogilwe
+0942. Сулу - kalasahan ta kaw
+0943. Суми - niye no kimiye ani
+0944. Сурджапури - mi tok pyār korchi
+0945. Суржик - я тебе люблю
+0946. Суригаонон - taghigugma ta kaw
+0947. Суринамский хиндустани - hum toke chahila
+0948. Сурмиранский романшский - ia at carez
+0949. Сусу - ira fan ma
+0950. Сутсильванский романшский - jou t’am
+0951. Сян - 你很好
+0952. Тагол-мурут - asiha au riun
+0953. Таино - dak'ro buk
+0954. Талосский - t'améu
+0955. Талтан - nedishcha
+0956. Талышский - mı tıni pidәme
+0957. Тамашек - riqqim
+0958. Тамильский - நான் உன்னை நேசிக்கிறேன்
+0959. Танапагский - i áfirhi(gh) ló
+0960. Тангале - ni lessigo
+0961. Тараумара - ni nígare
+0962. Тасе-нага - ngiz räq ümznäq mäx lungvii täkängx
+0963. Татский - мя туна мхостанум
+0964. Тболи - bungnawa hukon
+0965. Тедим-чин - ken nang hong ngai ing
+0966. Тектитекский - nwan a’ich
+0967. Тем - mɔɔzɔɔlɛ́ɛ nya
+0968. Темне - eborithimu
+0969. Темуанский - akuk sukak ajih
+0970. Тетела - dimi kolangaka
+0971. Тетум - hau hadomi o
+0972. Тетун-дили - haʼu hadomi ó
+0973. Теуэльче - inchepoyeneimi
+0974. Тибетский - ང་ཁྱེད་རང་ལ་དགའ་པོ་ཡོད་
+0975. Тив - u doom ishima
+0976. Тигре - ana enti efete
+0977. Тигринья - ይፈትወካ`የ
+0978. Тимерио - 1-80-17
+0979. Тиндинский - де̄ мӣ гьелӯ
+0980. Тичинский ломбардский - ta vöri ben
+0981. Тлингитский - ixhsixhán
+0982. Токипона - mi olin e sina
+0983. Токелау - ko au e alofa atu
+0984. Томпсон - yaquindawe
+0985. Тонга (Малави) - nditikuyanja
+0986. Тонганский - 'oku ou 'ofa 'ia koe
+0987. Тонгва - wiishmenokre
+0988. Тооро - ninkugonza
+0989. Тофаларский - мен сенi эъккісіндыр мен
+0990. Тохолабальский - wa xkʼanawa
+0991. Трасянка - я цябе люблю
+0992. Трукский - ‘ai tong ngonuk
+0993. Тсва - nza ku ranza
+0994. Тсонга - ndza ku rhandza
+0995. Туамоту - ua here au ia koe
+0996. Тувалу - au e alofa ki a koe
+0997. Тувинский - мен сенээ ынак мен
+0998. Тулу - ಯಾನ್ ಈರೆನ್ ಮೋಕೆ ಮಲ್ಪುವೆ
+0999. Тундровый энецкий - модь тоди комитазʼʼ
+1000. Туника - ma ihkmahka
+1001. Тупури - ndi damo
+1002. Туринский пьемонтский - ët veui bin
+1003. У - 我爱侬
+1004. Уайтский - íy ímbróðorlufu fa ðu
+1005. Уастекский науатль - nimitstlasotla
+1006. Убыхский - tʂʼanə wəzbja
+1007. Удинский - зу ва чуресса
+1008. Удэгейский - би синова аюми
+1009. Уйгурский - مەن سېنى ياخشى كۆرىمەن
+1010. Украинский - я тебе кохаю
+1011. Ульчский - би симбэ улэсии
+1012. Уме-саамский - månna ráhkistan du
+1013. Уолайта - ta nena siiqays
+1014. Уоллисский - ʼe ʼau ʼofa ia koe
+1015. Урду - میں آپ سے محبت کَرتا ہوں
+1016. Уропи - i liam ta
+1017. Урубу-каапор - rê-putare dê
+1018. Урхобо - mi vwo ẹguọnọ wẹn
+1019. Успантекский - at chwaaj
+1020. Фалам - ka lo duh tuk
+1021. Фанг - ma dzing wa
+1022. Фанте - me dowapaa
+1023. Фернандо-по - mí lɛ́k yú
+1024. Фиджийский - au domoni iko
+1025. Фиджийский хинди - main bhi tumko pyaar karti hoon
+1026. Филиппинский хокло - guwa ya tia di
+1027. Фон - un yí wǎn nú we
+1028. Фракийский - az lopt ti
+1029. Франкопровансальский - je t’amo
+1030. Фриульский - ti vuei ben
+1031. Фула - mbe de yid ma
+1032. Фулииру - nakusima
+1033. Фут - ma khoŋe gho
+1034. Хаджонг - môy tôge bhala pae
+1035. Хайда - dang dii kuyadang
+1036. Хакальтекский - chach woche
+1037. Хакасский - мин син хынара
+1038. Халкомелем (халкуминум) - nu stl’i’ ch
+1039. Хантыйский - ма ԓӑӊӄԓәм нӱӊат
+1040. Ханунуо - ᜫᜱᜮ᜴ ᜣᜯᜳ ᜨᜲᜣᜳ
+1041. Хариани - ma tanna pyaar karun hun
+1042. Хассания - kanebgheek
+1043. Хауса - ina son ka
+1044. Хваршинский - дил мо гокъше
+1045. Хиджазский арабский - أحبك‎
+1046. Хинглиш - mujhe aapako pasand hai
+1047. Хинди - मैं तुमसे प्यार करता हुँ
+1048. Хиндко - میں تم سے محبت کرتا ہوں
+1049. Хири-моту - oi lau lalokau henia
+1050. Хишкарьяна - kɨxirohimayaha
+1051. Хо - amań sukua tana
+1052. Хопский лазский - ma si p'qorop
+1053. Хунсрюкский - ich liipe tich
+1054. Хэн - nihtsį̀'
+1055. Цатский - gå sio hå
+1056. Цахурский - зас гъу йикканна
+1057. Цезский - даьр ми йетих
+1058. Цельтальский - kʼuxat ta koʼtan
+1059. Центрально-юпикский (чупик) - piniqamken
+1060. Центральный бонтокский - laylaychek sik-a
+1061. Цзинь - 我待见你
+1062. Цимбрский - ich liibe-dich
+1063. Цольяни - lúm tupmér tsámmeri
+1064. Цоциль - jk'anojot
+1065. Цудахарский - дам гIу риккутте
+1066. Цутухильский - natwajo'
+1067. Чабакано (замбоангеньо) - ama yo contigo
+1068. Чабакано (кавитеньо) - ta ama yo cuntigo
+1069. Чадский арабский - ni ridiki
+1070. Чаморро - hu guiaya hao
+1071. Чачхи - ਮੈਂ ਤੁਸਾਂ ਤੋਂ ਇਸ਼ਕ ਕਰਨਾ ਹੈ
+1072. Чви - medɔ wo
+1073. Челканский - мен сени колинтим
+1074. Чероки - ᎬᎨᏳᎢ
+1075. Чеченский - суна хьо йеза
+1076. Чжуанский - gou gyaez mwngz
+1077. Чиа-чиа - indau pe`elu iso`o
+1078. Чикасавский - chĩholloli
+1079. Чинский - kan dawt tuk
+1080. Чинукский - nayka tiki mayka
+1081. Чипевайан - neghąnighitą
+1082. Чокве - yami nakukuzanga
+1083. Чоктавский - chi hollo li
+1084. Чорти - ink’anye’t
+1085. Чувашский - эпĕ сана юрататăп
+1086. Чукотский - гымнан гыт ыʼԓгу тыԓгыркынигыт
+1087. Чулымский - мӓн сены қынывлым
+1088. Чухский - tzach wochk’olej
+1089. Чхаттисгархи - main tor se maya karatho
+1090. Шайенский - nemehotatse
+1091. Шанский - ႁိဝ်းႁၵ်ႉသူ
+1092. Шанхайский - 侬爱你
+1093. Шауйя - ttexseɣ-cem
+1094. Швабский - i mog di
+1095. Швейцарский немецкий - ich liib dich
+1096. Шелта - gra a mo gris
+1097. Шильхский - ar kʷn ttiriɣ
+1098. Шина - mas tut khush thamus
+1099. Шотландский (германский) - ah loove ye
+1100. Шугнанский - uzum tu žīwj
+1101. Шусвап - xwexwistsín
+1102. Эве - melɔ̃ wò
+1103. Эвенкийский - би синэ аявдем
+1104. Эвенский - би ину аяврым
+1105. Эде - khăp ih
+1106. Эдо - i rue mwen we
+1107. Эльвдальский - ig tyttjer um dig
+1108. Эльзасский - ich hàb lieb fir dich
+1109. Эмилиано-романьольский - a t vói bän
+1110. Эстремадурский - te quieru
+1111. Этон - me te wa ding
+1112. Эфик - mme ama fi
+1113. Эякский - ilah qe`xleh
+1114. Юго-западный динка - yïn nhiaar
+1115. Южноазербайджанский - من سنی سویرم
+1116. Южнобецимисаракский малагасийский - tiako iha
+1117. Южносаамский - manne datnem eahtsam
+1118. Южноселькупский (нарымский) - мат ташэнд надрам
+1119. Южноселькупский (чулымский) - ман ста суоранг
+1120. Южносуксабтский среднеатласский тамазигхт - ⴷⴰ ⴽ ⵜⵜⵉⵔⵉⵖ
+1121. Южноюкагирский - мэт тэтэк амудьиимэҥ
+1122. Южный кисси - i kaala num
+1123. Южный мбунду - ndu ku sole
+1124. Южный пушту - زه له تا سره مينه لرم
+1125. Южный тива - еee-peinoom
+1126. Юкатекский - in yaabilmech
+1127. Ю-мьен - yie hnamv meih
+1128. Юрок - pyerwerkseechek'
+1129. Яванский - ꦏꦸꦭꦠꦽꦱ꧀ꦤꦥꦚ꧀ꦗꦼꦤꦼꦁꦔꦤ꧀
+1130. Ягнобский - ман таw азиз доромиште
+1131. Якан - mabaya ku si kau
+1132. Яки - inepo enchi ne waa’ta
+1133. Якутский - мин эйиигин таптыыбын
+1134. Ямана - hai kúru skä
+1135. Яномами - ya pihi irakema
+1136. Яо - ngusamnonyela
+1137. Япский - gab t’uf rog
+1138. Ятвяжский - as tawi miłdu
